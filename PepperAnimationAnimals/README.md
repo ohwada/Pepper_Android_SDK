@@ -7,4 +7,8 @@ Pepper mimics some aminals, such as elephant, dog, feline, mouse, wolf, and gori
 <img src="https://github.com/ohwada/Pepper_Android_SDK/blob/master/PepperAnimationAnimals/docs/tablet.png" width="300"/><br/>
 <img src="https://github.com/ohwada/Pepper_Android_SDK/blob/master/PepperAnimationAnimals/docs/robot_view.png" width="300"/><br/>
 
+### ToDo
+- How to sop animation <br/>
+
 ### Blog (Japanese)
+http://pepper.ohwada.jp/archives/1305
